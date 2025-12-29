@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3564ee78-2d0c-4b7e-bf73-d3ed32007aa0",
+			"database_name": "radiolist"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
